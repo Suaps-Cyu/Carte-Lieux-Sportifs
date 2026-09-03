@@ -1,1 +1,1 @@
-# Carte-Lieux-SportifsMO
+# Carte-Lieux-Sportifs
